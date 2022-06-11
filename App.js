@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 28,
-    fontFamily: "Monospace",
+    fontFamily: "monospace",
     color: "white",
     fontWeight: "bold",
     margin: 20,
@@ -186,6 +186,6 @@ const styles = StyleSheet.create({
   imageBox: {
     backgroundColor: "#FFE7FF",
     width: "28%",
-    heigth: 100,
+    height: 90,
   }
 });
